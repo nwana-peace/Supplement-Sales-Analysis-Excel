@@ -26,15 +26,13 @@ The dataset contains transactional sales information with the following columns:
 
 ## Business Questions
 
-### 1. Which products and supplement categories generate the highest revenue?
+### 1. Which product generates the highest net revenue?
 
-### 2. How do sales and revenue change over time?
+### 2. How does net revenue change throughout the year?
 
-### 3. Which sales platforms and locations contribute the most to business performance?
+### 3. Which sales platforms record the highest sales volume?
 
-### 4. How do discounts affect sales performance?
-
-### 5. Which products have the highest return rates?
+### 4. Which locations contribute the largest share of total net revenue?
 
 ---
 
